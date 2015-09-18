@@ -8,7 +8,6 @@ class Airport
     @airport_capacity = NUMBER_OF_GATES
     @name
     @gates = []
-    #@weather = WEATHER
   end
 
   def get_capacity
