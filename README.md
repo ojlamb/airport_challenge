@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ojlamb/airport_challenge.svg?branch=master)](https://travis-ci.org/ojlamb/airport_challenge)
+
 Airport Challenge
 =================
 This is Makers Academy Week 1 challenge. The purpose of the challenge is to solidify knowledge of basic ruby, OOP and Modeling, and Test Driven Development using Rspec.
